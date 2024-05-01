@@ -1,0 +1,190 @@
+Linear Regression - Feature combination 1: ['contains_words']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 2: ['has_exact_ascii_word']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.50
+
+Linear Regression - Feature combination 3: ['has_features']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.51
+
+Linear Regression - Feature combination 4: ['is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.51
+
+Linear Regression - Feature combination 5: ['sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 6: ['contains_words', 'has_exact_ascii_word']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 7: ['contains_words', 'has_features']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 8: ['contains_words', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 9: ['contains_words', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 10: ['has_exact_ascii_word', 'has_features']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.51
+
+Linear Regression - Feature combination 11: ['has_exact_ascii_word', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.51
+
+Linear Regression - Feature combination 12: ['has_exact_ascii_word', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 13: ['has_features', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.51
+
+Linear Regression - Feature combination 14: ['has_features', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 15: ['is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 16: ['contains_words', 'has_exact_ascii_word', 'has_features']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 17: ['contains_words', 'has_exact_ascii_word', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 18: ['contains_words', 'has_exact_ascii_word', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 19: ['contains_words', 'has_features', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 20: ['contains_words', 'has_features', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.54
+
+Linear Regression - Feature combination 21: ['contains_words', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 22: ['has_exact_ascii_word', 'has_features', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 23: ['has_exact_ascii_word', 'has_features', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 24: ['has_exact_ascii_word', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 25: ['has_features', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 26: ['contains_words', 'has_exact_ascii_word', 'has_features', 'is_long_text']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.52
+
+Linear Regression - Feature combination 27: ['contains_words', 'has_exact_ascii_word', 'has_features', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.54
+
+Linear Regression - Feature combination 28: ['contains_words', 'has_exact_ascii_word', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 29: ['contains_words', 'has_features', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.54
+
+Linear Regression - Feature combination 30: ['has_exact_ascii_word', 'has_features', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.53
+
+Linear Regression - Feature combination 31: ['contains_words', 'has_exact_ascii_word', 'has_features', 'is_long_text', 'sentiment_label']
+F1 Score: 0.88
+Sensitivity (Sn): 1.00
+Specificity (Sp): 0.79
+AUC Score: 0.54
+
+
+Confusion Matrix for Linear Regression Classifier:
+[[      0  309039]
+ [      0 1141606]]
